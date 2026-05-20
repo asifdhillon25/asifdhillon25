@@ -74,17 +74,7 @@ Machine Learning • Deep Learning • OpenCV • CNNs • LLM Applications • 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifdhillon25&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifdhillon25&theme=tokyonight" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
@@ -103,8 +93,6 @@ Machine Learning • Deep Learning • OpenCV • CNNs • LLM Applications • 
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asifdhillon25&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 <h3 align="center">✨ Building Intelligent AI Solutions for Real-World Problems ✨</h3>
