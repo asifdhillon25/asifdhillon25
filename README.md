@@ -1,73 +1,110 @@
-# Hi, I'm Muhammad Asif Dhillon 👋
+<h1 align="center">Hi 👋, I'm Muhammad Asif Dhillon</h1>
+<h3 align="center">Full-Stack AI Developer | Computer Vision | LLM Integrations</h3>
 
-### Full-Stack AI Developer | Python | Computer Vision | LLM Integrations | Automation
-
-I am a final-year Computer Science student passionate about building AI-powered applications, intelligent systems, and production-ready software. I work with Python, Computer Vision, Machine Learning, API integrations, and modern web technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Python+%7C+Computer+Vision+%7C+LLMs;Full+Stack+Developer;Building+Real-World+AI+Systems" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science — University of Management and Technology  
-- 🤖 Building AI solutions using Python, OpenCV, CNNs, and LLM APIs  
-- 🧠 Interested in AI Agents, Prompt Engineering, and Intelligent Automation  
-- 🌐 Skilled in Full-Stack Development using React, Node.js, Express.js, and MongoDB  
-- 📌 Currently working on **ClassEye — AI-Powered Smart Attendance & Learning Platform**
+- 🎓 Final-Year BS Computer Science Student
+- 🤖 Passionate about AI, Computer Vision & Intelligent Systems
+- 💡 Building real-world AI applications using Python & OpenAI APIs
+- 🌱 Currently learning advanced AI agents & scalable architectures
+- ⚡ Love creating automation tools and smart systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / Machine Learning**  
-Python • Machine Learning • Deep Learning • Computer Vision • OpenCV • CNNs • TensorFlow • LLM Applications • AI Agents • Prompt Engineering
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
+</p>
 
-**Frontend**  
-React • HTML5 • CSS3 • JavaScript
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-**Backend & APIs**  
-Node.js • Express.js • REST APIs • API Integrations • Postman
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-**Databases**  
-MongoDB • MySQL
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
-**Other**  
-Git • GitHub • Automation • Software Development
+<p>
+Machine Learning • Deep Learning • OpenCV • CNNs • LLM Applications • AI Agents • Prompt Engineering
+</p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### ClassEye — AI-Powered Smart Attendance & Learning Platform
-AI-based attendance system using Python, OpenCV, and CNN facial recognition models.  
-Includes real-time face detection, automated attendance workflows, classroom analytics, and reporting dashboards.
+### 🧠 ClassEye — AI Smart Attendance System
+- Real-time facial recognition attendance system
+- Built using Python, OpenCV & CNN models
+- Automated attendance workflows and analytics dashboards
 
-### AI Support Assistant
-Intelligent chatbot built with OpenAI APIs and Python for contextual conversation, task automation, prompt engineering, and business workflow support.
+### 💬 AI Support Assistant
+- Intelligent chatbot using OpenAI APIs
+- Context-aware conversations and task automation
+- Prompt engineering & workflow integrations
 
-### CardVision — AI-Powered Card Recognition System
-Computer vision system that detects playing cards in real time, identifies ranks and suits, tracks played cards, and predicts possible opponent moves using probability-based logic.
+### 🎮 CardVision — AI Card Recognition System
+- Detects playing cards in real time
+- Tracks game history and predicts moves
+- Built with Computer Vision & Deep Learning
 
 ---
 
 ## 📜 Certifications
 
-- Convolutional Neural Networks — DeepLearning.AI  
-- Computer Vision & Image Processing — IBM  
-- Version Control — Meta  
-- Frontend Development with React — Packt  
-- Backend Development & API Creation — Packt  
+🏅 DeepLearning.AI — CNNs  
+🏅 IBM — Computer Vision & Image Processing  
+🏅 Meta — Version Control  
+🏅 Packt — React Development  
+🏅 Packt — Backend APIs & Development  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asifdhillon25&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifdhillon25&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-- Portfolio: https://my-portfolio25-web25.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/muhammad-asif-484860372/
-- GitHub: https://github.com/asifdhillon25
-- Email: asifdhillon25@gmail.com
+<p>
+<a href="https://github.com/asifdhillon25">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-asif-484860372/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+📧 Email: asifdhillon25@gmail.com  
+🌐 Portfolio: https://my-portfolio25-web25.vercel.app/
 
 ---
 
-## ✨ Profile Motto
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asifdhillon25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-> Building intelligent, scalable, and real-world AI solutions with clean code and modern technology.
+<h3 align="center">✨ Building Intelligent AI Solutions for Real-World Problems ✨</h3>
