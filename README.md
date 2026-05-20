@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif Dhillon</h1>
-<h3 align="center">Full-Stack AI Developer | Computer Vision | LLM Integrations</h3>
+
+<h3 align="center">
+Full-Stack AI Developer • Computer Vision • LLM Integrations
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Python+%7C+Computer+Vision+%7C+LLMs;Full+Stack+Developer;Building+Real-World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Developer;Python+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems;Full-Stack+Developer" />
 </p>
-
----
+--
 
 ## 🚀 About Me
 
