@@ -1,101 +1,143 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif Dhillon</h1>
 
 <h3 align="center">
-Full-Stack AI Developer • Computer Vision • LLM Integrations
+  Full-Stack AI Developer • Computer Vision • Intelligent Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Developer;Python+%7C+Computer+Vision+%7C+LLMs;Building+Real-World+AI+Systems;Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Vision+Engineer;Building+Intelligent+AI+Systems;Full-Stack+AI+Developer;Python+•+OpenCV+•+TensorFlow+•+MERN" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-Year BS Computer Science Student
-- 🤖 Passionate about AI, Computer Vision & Intelligent Systems
-- 💡 Building real-world AI applications using Python & OpenAI APIs
-- 🌱 Currently learning advanced AI agents & scalable architectures
-- ⚡ Love creating automation tools and smart systems
+* 🚀 Building AI-powered systems using Computer Vision, Full-Stack Engineering, and Intelligent Automation
+* 🧠 Focused on real-time AI systems, Computer Vision pipelines, and scalable software architectures
+* ⚙️ Interested in intelligent systems, AI agents, automation workflows, and scalable backend engineering
+* 🌱 Currently exploring advanced AI workflows, LLM integrations, and modern software system design
+* 💻 Passionate about transforming ideas into real-world software products
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
 ### 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / Computer Vision
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 <p>
-Machine Learning • Deep Learning • OpenCV • CNNs • LLM Applications • AI Agents • Prompt Engineering
+  Computer Vision • OpenCV • Deep Learning • CNNs • Machine Learning • Intelligent Automation • AI Systems
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 ClassEye — AI Smart Attendance System
-- Real-time facial recognition attendance system
-- Built using Python, OpenCV & CNN models
-- Automated attendance workflows and analytics dashboards
+### 🧠 CardVision — AI Gameplay Intelligence System
 
-### 💬 AI Support Assistant
-- Intelligent chatbot using OpenAI APIs
-- Context-aware conversations and task automation
-- Prompt engineering & workflow integrations
+AI-powered Computer Vision system capable of real-time playing card recognition, gameplay tracking, and probability-based opponent prediction using OpenCV and Deep Learning.
 
-### 🎮 CardVision — AI Card Recognition System
-- Detects playing cards in real time
-- Tracks game history and predicts moves
-- Built with Computer Vision & Deep Learning
+#### ⚡ Key Features
+
+* 🎴 Real-time card detection and recognition
+* 🧠 Intelligent gameplay memory system
+* 📊 Probability-based strategic prediction
+* ⚡ AI-assisted gameplay analysis
+
+#### 🛠️ Tech Stack
+
+`Python` `OpenCV` `TensorFlow` `Deep Learning` `FastAPI`
+
+---
+
+### 👁️ ClassEye — AI Smart Attendance & Analytics Platform
+
+AI-powered classroom monitoring and smart attendance system using facial recognition and intelligent analytics for modern academic environments.
+
+#### ⚡ Key Features
+
+* 📷 Real-time face recognition attendance
+* 🧠 Student engagement tracking
+* 📊 Attendance analytics dashboard
+* ⚡ Automated academic workflows
+
+#### 🛠️ Tech Stack
+
+`Python` `OpenCV` `TensorFlow` `React` `Flask` `CNNs`
+
+---
+
+### 🏏 Cricklytics — Real-Time Cricket Analytics Platform
+
+Full-stack cricket scoring and analytics system designed for live match tracking, player statistics, and real-time performance insights.
+
+#### ⚡ Key Features
+
+* 📊 Ball-by-ball live scoring
+* 🏏 Player performance analytics
+* ⚡ Real-time match updates
+* 📈 Tournament and team management
+
+#### 🛠️ Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ---
 
 ## 📜 Certifications
 
-🏅 DeepLearning.AI — CNNs  
-🏅 IBM — Computer Vision & Image Processing  
-🏅 Meta — Version Control  
-🏅 Packt — React Development  
-🏅 Packt — Backend APIs & Development  
+* 🏅 DeepLearning.AI — Convolutional Neural Networks
+* 🏅 Coursera — Computer Vision & Image Processing Essentials
+* 🏅 Packt — Frontend Development with React
+* 🏅 Packt — Backend Development & API Creation
+* 🏅 Meta — Version Control
 
 ---
-
-
 
 ## 🌍 Connect With Me
 
-<p>
-<a href="https://github.com/asifdhillon25">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="left">
+  <a href="https://github.com/asifdhillon25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="https://www.linkedin.com/in/muhammad-asif-484860372/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/muhammad-asif-484860372/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
-📧 Email: asifdhillon25@gmail.com  
-🌐 Portfolio: https://my-portfolio25-web25.vercel.app/
+📧 **Email:** [asifdhillon25@gmail.com](mailto:asifdhillon25@gmail.com)
+🌐 **Portfolio:** https://my-portfolio25-web25.vercel.app/
 
 ---
 
-
-
-<h3 align="center">✨ Building Intelligent AI Solutions for Real-World Problems ✨</h3>
+<h3 align="center">
+✨ Building Intelligent AI Solutions for Real-World Problems ✨
+</h3>
